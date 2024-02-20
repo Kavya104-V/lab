@@ -1,1 +1,4 @@
+
+the lab syllabus are: 
 welcome to git lab
+
